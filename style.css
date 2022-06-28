@@ -16,8 +16,8 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     color: #f8decf !important;
-    /* border: 1px solid red; */
-    /* height: 6rem; */
+    display: flex;
+    align-items: center;
 }
 .quote_author{
     font-family: 'Smooch', cursive;
